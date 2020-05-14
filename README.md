@@ -1,2 +1,2 @@
 # inventory-Management-system
-a inventory system
+first commit
